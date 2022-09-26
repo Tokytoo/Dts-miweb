@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Source+Sans+Pro:ital@1&display=swap');
+
+
+body { background-color: beige;}
+a { color:beige; }
+a:hover {color: #21077E;}
+
+
+.titulo {color:#FF7043; position:absolute; left:50%; top: 80%; font-size: 200%;
+font-family: 'Anton', sans-serif;}
+
+
+.fondo {width: 500px;
+height: 300px;
+background: white;
+margin: 50px;
+display:block;}
+
+
+#laos{background-color: grey;}
+
+.franja1 { width: 500px;
+height: 75px;
+background-color: #C70832;}
+
+.franja2 { width: 500px;
+height: 150px;
+background-color: #21077E;}
+
+.franja3 { width: 500px;
+height: 75px;
+background-color:#C70832;}
+
+.simbolo {height: 120px; width: 120px;position:absolute; margin-left: 190px; top: 27%; }
+
+
+
+
+#japón {background-color: white;}
+.simbolo2 {height: 120px; width: 120px;position:absolute; margin-left: 190px; top: 85%; }
+
+
+
+#madagascar {background-color: coral;}
+.linea3 {width:200px; height: 300px; background-color: white; position:absolute ;}
+.linea1 { width: 500px; height: 150px; background-color: #E01833;}
+.linea2 { width: 500px; height:150px; background-color: #0E6825;}
+
+
+.boton {
+border: 2px solid ; /*anchura, estilo y color borde*/
+padding: 10px;
+background-color:#FF7043; 
+color: beige;
+text-transform: uppercase;
+font-family: 'Source Sans Pro', sans-serif; 
+border-radius: 50px;}
+
+
+
+Citas 
+Sánchez, D. (2022, 22 junio). ¿Cómo Crear Un Botón HTML? •. The Color Blog. Recuperado 7 de septiembre de 2022, de https://thecolor.blog/es/como-crear-un-boton-html/.
+Google fonts. (s/f). Google Fonts. Recuperado el 7 de septiembre de 2022, de https://fonts.google.com/
+
